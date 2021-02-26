@@ -1,10 +1,12 @@
 title: Divya Thomas # your name (or website title) here
 logo: "images/profpic_cropped.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   M.S. Computer Science Student - Boston University
   <br><br>
   B.S. Bioinformatics Graduate - University of Iowa
   <br><br>
+  <hr>
   <a href="https://www.linkedin.com/in/divyaalicethomas/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
