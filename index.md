@@ -1,10 +1,11 @@
 ## About Divya
 
-<img src="images/agnipptpic.jpeg"/>
-
 Divya is a hardworking, creative, and result-oriented University of Iowa graduate and current M.S Computer Science student at Boston University. Divya is seeking a concurrent opportunity in full stack software development or database management.
 
 Divya demonstrates a history of working with a variety of departments and lines of business including and related to health, management, and insurance. Displays proficiency in analytical and conversational skills, database knowledge, C++, Python, mySQL, HTML, and Cascading Style Sheets (CSS). 
+
+
+<img src="images/agnipptpic.jpeg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
