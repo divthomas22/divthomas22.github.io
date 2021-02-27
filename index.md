@@ -16,7 +16,7 @@ Divya demonstrates a history of working with a variety of departments and lines 
   
 <p>The MIPS Partial Disassembler is a C++ program which takes in an array of 32-bit machine instructions and decodes them, outputting the operations and registers corresponding to these instructions. The purpose of this project is to create a program that resembles the processes of a computer processing instructions for specific operation.<p>
 
-[MIPS Partial Disassembler](https://github.com/divthomas22/MIPSDisassembler)
+[MIPS Partial Disassembler](https://divthomas22.github.io/)
 
 <br><br>
 
