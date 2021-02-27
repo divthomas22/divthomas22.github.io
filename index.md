@@ -1,4 +1,4 @@
-| [Project Experience](#course-and-project-experience) | [Work Experience](#work-experience) | 
+| [Project Experience](#course-and-project-experience) | [Work Experience](#work-experience) | [Leadership Experience](#leadership-experience)
 
 
 ## About Divya  
@@ -62,7 +62,16 @@ Link to Project
 - Designed and conducted activities for residents with various backgrounds and personality types in individual and group settings
 - Handled resident rent and beauty shop payments and set up reservations
 - Aided nurses and managers as needed such as creating schedules and patient documentation    
-<br>  
+  
+---  
+  
+## Leadership Experience  
+  
+### President
+#### *Iowa Agni A'Cappella* | Aug 2016 - May 2020  
+Iowa Agni is University of Iowa's Premier South Asian Fusion A'Cappella Team. Divya served as Vice President and Creative Director of the organization in the 2017-2018 school year and served as President in both the 2018-2019 and 2019-2020 school years.  
+  
+  
   
   
 <p style="font-size:11px">Divya Thomas -- Latest Update: February 26, 2021</p>
