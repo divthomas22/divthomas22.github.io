@@ -1,4 +1,4 @@
-[Project Experience](#course-and-project-experience) | [Work Experience](#work-experience) 
+| [Project Experience](#course-and-project-experience) | [Work Experience](#work-experience) | 
 
 
 ## About Divya  
