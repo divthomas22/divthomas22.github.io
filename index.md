@@ -1,4 +1,5 @@
-[Projects](#course-and-project-experience)
+[Projects](#course-and-project-experience) | [Work Experience](#work-experience) | 
+
 
 ## About Divya
 
@@ -38,12 +39,13 @@ functionalities in C++ for the development of the interactive game from concept 
 Description of Project
 
 Link to Project
+
 <br><br>
 
 
 ---
 
-### Category Name 2
+## Work Experience
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
