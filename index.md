@@ -10,23 +10,25 @@ Divya demonstrates a history of working with a variety of departments and lines 
 ---
 
 ## Course and Project Experience
+<br>
 
-<h3> MIPS Partial Disassembler - CS 472 Computer Architecture Project <h3>
+<h3> MIPS Partial Disassembler - Computer Architecture<h3>
 <h4> February 2021 <h4>
   
-<p>The MIPS Partial Disassembler is a C++ program which takes in an array of 32-bit machine instructions and decodes them, outputting the operations and registers corresponding to these instructions. The purpose of this project is to create a program that resembles the processes of a computer processing instructions for specific operation.<p>
+<p>The <em>MIPS Partial Disassembler</em> is a C++ program which takes in an array of 32-bit machine instructions and decodes them, outputting the operations and registers corresponding to these instructions. The purpose of this project is to create a program that resembles the processes of a computer processing instructions for specific operation.<p>
   
-<a href="https://github.com/divthomas22/MIPSDisassembler">MIPS Disassembler GitHub</a>
+<a href="https://github.com/divthomas22/DivyaThomasPortfolio/tree/main/MIPS_Disassembler">Open <em>MIPS Partial Disassembler</em> on GitHub</a>
 
 <br><br>
 
 
-<h3> Project 2 Title <h3>
-
-Description of Project
-
-Link to Project
-<br><br>
+<h3> Divya’s Game of Life - Programming Languages and Tools: Programming with C++<h3>
+<h4> May 2020 <h4>
+  
+<p><em>Divya's Game of Life</em> is a solo project to utilize C++ to create a terrestrial ecosystem simulation, loosely related to Conway’s Game of Life. It includes the application of knowledge and skills acquired throughout this programming course as well as individual research to implement
+functionalities in C++ for the development of the interactive game from concept to verification<p>
+  
+<a href="https://github.com/divthomas22/DivyaThomasPortfolio/tree/main/GameOfLife">Open <em>Divya's Game of Life</em> on GitHub</a>
 
 
 
@@ -37,10 +39,6 @@ Description of Project
 Link to Project
 <br><br>
 
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -58,5 +56,4 @@ Link to Project
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Divya Thomas -- Latest Update: February 26, 2021</p>
